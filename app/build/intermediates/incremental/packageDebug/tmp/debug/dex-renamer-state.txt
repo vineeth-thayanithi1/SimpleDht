@@ -1,0 +1,4 @@
+#Tue May 12 22:46:31 EDT 2020
+base.0=/home/vineeth/Downloads/SimpleDht/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
